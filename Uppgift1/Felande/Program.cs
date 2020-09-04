@@ -14,7 +14,7 @@ namespace Felande
         static void Main(string[] args)
 
             Console.WriteLine("Hej, välkommen till uppgift 1!");
-            Console.WriteLine("Tryck på en knapp för att fortsätta...");
+            Console.WriteLine("Tryck på en knapp för att fortsätta..");
             Console.ReadKey();
 
             namn = "Linda";
