@@ -30,7 +30,7 @@ namespace Uppgift1b
             //2. Använd implicit konvertering för att tilldela variabel "l" värdet av "i"
             //Kod här
             i = 10;
-            long; 
+            long; ;
             
             //3. Addera 1 till variabeln "l" mha inkrement operatorn.
             //Kod här
