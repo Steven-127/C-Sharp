@@ -9,7 +9,7 @@ namespace Uppgift1b
         //All kod ska ligga inne i Main-funktionen nedan.
         //Tips: Lägg en Console.Readline längst ner i Main-funktionen så att inte konsolen 
         //stängs direkt.
-        static void Main(string[] args)
+        static void Main(string[] args);
         {
             //Variabel deklarationer.
             //Inga variabler förutom dessa ska användas.
