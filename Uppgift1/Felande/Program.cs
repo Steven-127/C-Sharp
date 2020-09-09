@@ -12,6 +12,7 @@ namespace Felande
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
+        {
 
             Console.WriteLine("Hej, välkommen till uppgift 1!");
             Console.WriteLine("Tryck på en knapp för att fortsätta...");
@@ -19,7 +20,7 @@ namespace Felande
 
             string namn = "Linda";
 
-            Console.WriteLine;
+            
             Console.WriteLine($"Här ser du en sträng representerat av variablen 'namn': {namn}");
             Console.WriteLine("Tryck på en knapp för att fortsätta...");
             Console.ReadKey();
@@ -33,10 +34,10 @@ namespace Felande
 
             
 
-            DateTime datum = DateaTime.Now;
+            DateTime datum = DateTime.Now;
 
             Console.WriteLine();
-            Console.ReadKey($"Här ser du ett datum representerat av variablen 'datum': {datum}")
+            Console.ReadKey($"Här ser du ett datum representerat av variablen 'datum': {datum}");
             Console.WriteLine("Tryck på en knapp för att fortsätta...");
             Console.ReadKey();
 
@@ -54,4 +55,5 @@ namespace Felande
 
             Console.ReadLine();
         }
+    }
 }
