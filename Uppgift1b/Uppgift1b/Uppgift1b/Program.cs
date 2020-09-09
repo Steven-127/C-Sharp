@@ -38,7 +38,7 @@ namespace Uppgift1b
 
             //4. Använd compound assignment för att multiplicera värdet av variabel "l" med 2
             //Kod här
-            *= 2;
+            l *= 2;
             
             //5. Avänd explicit konvertering för att tilldela variabel "i" värdet av "l"
             //Kod här
@@ -50,11 +50,11 @@ namespace Uppgift1b
 
             //7. Tilldela variabeln "f" värdet 3.14
             //Kod här
-            f = 3.14;
+            f = 3.14f;
 
             //8. Använd explicit konvertering för att tilldela variabeln "d" värdet av variabeln "f"
             //Kod här
-            d = (double)f;
+            d = (int)f;
 
             //9. Använd dekrement operatorn för att subtrahera värdet av "d" med 1
             //Kod här
@@ -62,11 +62,11 @@ namespace Uppgift1b
 
             //10. Använd compound assignment för att multiplicera värdet av variabel "d" med 3
             //Kod här
-            *=3;
+            d *=3;
 
             //11. Använd explicit konvertering för att tilldela "i" värdet av "d" modulo 5 (restvärdet)
             //Kod här
-            
+            i = (int)d % 5;
 
 
             //12. Skriv ut värdet av "i" i konsolen. Bör vara 1.
@@ -94,7 +94,8 @@ namespace Uppgift1b
 
             //17. Skriv ut värdet av variabeln "sant" i konsolen. Bör vara False.
             //Kod här
-            bool sant = false;
+            sant = b.ToString();
+           
             Console.WriteLine(sant);
 
             //18. Skriv ut till konsolen texten: Ange ett heltal:
@@ -104,6 +105,8 @@ namespace Uppgift1b
             //19. Läs in ett heltal från konsolen tilldela värdet till variabel "input1"
             //Kod här
             
+            input1 = Console.ReadLine();
+            Console.WriteLine(input1);
 
             //20. Skriv ut till konsolen texten: Ange ett annat heltal:
             //Kod här
