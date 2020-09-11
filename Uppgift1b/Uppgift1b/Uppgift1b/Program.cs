@@ -21,6 +21,7 @@ namespace Uppgift1b
             bool b;
             string sant, input1, input2;
 
+           
 
             //1. tilldela variabel i värdet 10
             //Kod här
