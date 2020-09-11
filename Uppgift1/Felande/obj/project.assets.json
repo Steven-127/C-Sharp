@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp\\Uppgift1\\Felande\\Felande.csproj",
+      "projectUniqueName": "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp1\\Uppgift1\\Felande\\Felande.csproj",
       "projectName": "Felande",
-      "projectPath": "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp\\Uppgift1\\Felande\\Felande.csproj",
+      "projectPath": "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp1\\Uppgift1\\Felande\\Felande.csproj",
       "packagesPath": "C:\\Users\\HP'\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp\\Uppgift1\\Felande\\obj\\",
+      "outputPath": "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp1\\Uppgift1\\Felande\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP'\\AppData\\Roaming\\NuGet\\NuGet.Config",

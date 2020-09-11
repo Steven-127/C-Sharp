@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp\\Uppgift1\\Korrekt\\Korrekt.csproj": {}
+    "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp1\\Uppgift1\\Korrekt\\Korrekt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp\\Uppgift1\\Korrekt\\Korrekt.csproj": {
+    "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp1\\Uppgift1\\Korrekt\\Korrekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp\\Uppgift1\\Korrekt\\Korrekt.csproj",
+        "projectUniqueName": "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp1\\Uppgift1\\Korrekt\\Korrekt.csproj",
         "projectName": "Korrekt",
-        "projectPath": "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp\\Uppgift1\\Korrekt\\Korrekt.csproj",
+        "projectPath": "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp1\\Uppgift1\\Korrekt\\Korrekt.csproj",
         "packagesPath": "C:\\Users\\HP'\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp\\Uppgift1\\Korrekt\\obj\\",
+        "outputPath": "C:\\Users\\HP'\\Documents\\GitHub\\C-Sharp1\\Uppgift1\\Korrekt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP'\\AppData\\Roaming\\NuGet\\NuGet.Config",

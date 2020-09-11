@@ -16,11 +16,11 @@ namespace Felande
 
             Console.WriteLine("Hej, välkommen till uppgift 1!");
             Console.WriteLine("Tryck på en knapp för att fortsätta...");
-            Console.ReadLine();
+            Console.ReadKey();
 
-            string namn = "Linda";
+            string namn = "Steven";
 
-            
+            Console.WriteLine();
             Console.WriteLine($"Här ser du en sträng representerat av variablen 'namn': {namn}");
             Console.WriteLine("Tryck på en knapp för att fortsätta...");
             Console.ReadKey();
@@ -37,7 +37,7 @@ namespace Felande
             DateTime datum = DateTime.Now;
 
             Console.WriteLine();
-            Console.ReadKey($"Här ser du ett datum representerat av variablen 'datum': {datum}");
+            Console.WriteLine($"Här ser du ett datum representerat av variablen 'datum': {datum}");
             Console.WriteLine("Tryck på en knapp för att fortsätta...");
             Console.ReadKey();
 
@@ -50,6 +50,7 @@ namespace Felande
 
             int helttal = 30;
 
+            Console.WriteLine();
             Console.WriteLine("helttal");
             Console.WriteLine($"Här ser du ett heltal representerat av variablen 'heltal': {helttal}");
             Console.WriteLine("Tryck på en knapp för att fortsätta...");
